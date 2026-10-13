@@ -1,0 +1,4 @@
+Built with PyInstaller 6.22.0 (GPL 2.0 with bundle exception; selected files Apache 2.0).
+https://pyinstaller.org/en/stable/license.html
+Python runtime notices are included in PYTHON-LICENSE.txt.
+The system browser and OS libraries are supplied by the operating system.
