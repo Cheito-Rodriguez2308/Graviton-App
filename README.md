@@ -13,8 +13,8 @@ Current release: **0.2.0-rc.1 — Windows preview**. The executable is unsigned.
 | Platform | Download/readiness |
 |---|---|
 | Windows x64 | Standalone executable; release candidate |
-| macOS Apple Silicon | Native build/package and independent desktop testing pending |
-| Linux x64 | Native build/package and independent desktop testing pending |
+| macOS Apple Silicon | [Native build and desktop testing issue](https://github.com/Cheito-Rodriguez2308/Graviton-App/issues/1) |
+| Linux x64 | [Native build and desktop testing issue](https://github.com/Cheito-Rodriguez2308/Graviton-App/issues/2) |
 | Intel macOS / other architectures | Unsupported in this preview |
 
 Mac and Linux testers should follow their platform issues. A Windows `.exe` is not a native macOS or Linux package.
