@@ -27,6 +27,16 @@ The L2,n2 coset8 reference is not the full finite ground or a physical vacuum. P
 
 [User guide](docs/USER-GUIDE.md) · [Testing and support](docs/TESTING.md) · [Runtime licenses](licenses/) · [Report a bug](https://github.com/Cheito-Rodriguez2308/Graviton-App/issues/new)
 
+## Screenshots
+
+These are actual screenshots of the measured application, using the supplied finite reference configurations.
+
+![Desktop interface](docs/images/desktop-ready.png)
+
+![Read-only reopened results](docs/images/desktop-imported.png)
+
+[View the narrow-screen layout](docs/images/mobile.png).
+
 ## Integrity and provenance
 
 The release includes SHA256SUMS.txt and release-manifest.json. The Windows executable is9,947,780bytes and its SHA256 is `b6f8519dfbec7bbe3a5e365577efa06e5f5edf1dd17ac6d8892c2973526e82bf`.
