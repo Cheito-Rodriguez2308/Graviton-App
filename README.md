@@ -4,11 +4,11 @@ Local finite-source scientific application. This public repository distributes a
 
 ## Download
 
-[Download the Windows x64 application](https://github.com/Cheito-Rodriguez2308/Graviton-App/releases/download/v0.2.0-rc.1/Graviton-0.2.0-rc.1-windows-x64.exe) or visit the [release page](https://github.com/Cheito-Rodriguez2308/Graviton-App/releases/tag/v0.2.0-rc.1).
+[Download the Windows x64 application](https://github.com/Cheito-Rodriguez2308/Graviton-App/releases/download/v0.2.0-rc.2/Graviton-0.2.0-rc.2-windows-x64.exe) or visit the [release page](https://github.com/Cheito-Rodriguez2308/Graviton-App/releases/tag/v0.2.0-rc.2).
 
 Download the compiled `.exe`, not GitHub's automatically generated Source code archives. No GitHub account, Python installation, compiler, Node.js or repository clone is required. Double-click the executable; the offline interface opens locally in your browser. Its runtime, scientific engine and assets are bundled. Use Quit in the interface to close the application and worker.
 
-Current release: **0.2.0-rc.1 — Windows preview**. The executable is unsigned. Windows11 build26300 x64 and Microsoft Edge155 have automated same-host verification; fresh-machine/manual acceptance and broader OS/browser support remain unverified. Do not disable operating-system protections globally.
+Current release: **0.2.0-rc.2 â€” Windows preview**. The executable is unsigned. Windows11 build26300 x64 and Microsoft Edge155 have automated same-host verification; fresh-machine/manual acceptance and broader OS/browser support remain unverified. Do not disable operating-system protections globally.
 
 | Platform | Download/readiness |
 |---|---|
@@ -25,20 +25,22 @@ Configure the preserved L1,n2 / L1,n3 / L2,n2 finite reference domains; run, pau
 
 The L2,n2 coset8 reference is not the full finite ground or a physical vacuum. Plots show computed observables, not individual graviton trajectories. All17physical emergence gates remain inconclusive. Byte integrity, bounded schema checks, exact-arithmetic discretization bounds and unknown preparation/floating-point errors have separate scopes.
 
-[User guide](docs/USER-GUIDE.md) · [Testing and support](docs/TESTING.md) · [Runtime licenses](licenses/) · [Report a bug](https://github.com/Cheito-Rodriguez2308/Graviton-App/issues/new)
+[User guide](docs/USER-GUIDE.md) Â· [Testing and support](docs/TESTING.md) Â· [Runtime licenses](licenses/) Â· [Report a bug](https://github.com/Cheito-Rodriguez2308/Graviton-App/issues/new)
+
+The refined interface uses local Motion mini transitions and respects reduced-motion settings. It loads no CDN scripts or remote fonts. Scientific values and chart series come directly from the C++ engine.
 
 ## Screenshots
 
 These are actual screenshots of the measured application, using the supplied finite reference configurations.
 
-![Desktop interface](docs/images/desktop-ready.png)
+![Desktop interface](docs/images/rc.2/desktop-ready.png)
 
-![Read-only reopened results](docs/images/desktop-imported.png)
+![Read-only reopened results](docs/images/rc.2/desktop-imported.png)
 
-[View the narrow-screen layout](docs/images/mobile.png).
+[View the narrow-screen layout](docs/images/rc.2/mobile.png).
 
 ## Integrity and provenance
 
-The release includes SHA256SUMS.txt and release-manifest.json. The Windows executable is9,947,780bytes and its SHA256 is `b6f8519dfbec7bbe3a5e365577efa06e5f5edf1dd17ac6d8892c2973526e82bf`.
+The release includes SHA256SUMS.txt and release-manifest.json. The Windows executable is 9,955,622 bytes and its SHA256 is `8cd7cacb76ecad50a8df24f15a449dc595c12d51c6bde5bef177b864282ca923`.
 
-Maintainer application-source identity: `e8c55fa94830f1e7cf70e7c701f91dba9e0b2327`. The public distribution repository's commit/tag is a distinct release-materials identity. No private research history is published here.
+Maintainer application-source identity: `11b4a1608400595738d88f660b180350f2786dca`. The public distribution repository's commit/tag is a distinct release-materials identity. No private research history is published here.
